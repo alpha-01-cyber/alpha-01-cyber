@@ -6,8 +6,7 @@
 🔧 Tools: Burp Suite, Nmap, Nikto, Dirb, Metasploit, Wireshark  
 💻 Languages: Python, Bash, C++, JavaScript  
 📜 Certifications: Windows Forensics (Belkasoft), more in progress  
-🌐 Portfolio: [LinkedIn](https://linkedin.com/in/ahsan-izhar) | [Resume]([Muhammad-Ahsan-Izhar-CY.pdf](https://github.com/user-attachments/files/21013825/Muhammad-Ahsan-Izhar-CY.pdf)
-)
+🌐 Portfolio: [LinkedIn](https://linkedin.com/in/ahsan-izhar) | [Resume](https://github.com/alpha-01-cyber/resume/raw/main/Muhammad-Ahsan-Izhar-Resume.pdf)
 
 ---
 
