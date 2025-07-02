@@ -1,26 +1,30 @@
-# Muhammad Ahsan Izhar
+# 👋 Hi, I'm Muhammad Ahsan
 
-Cybersecurity undergraduate at FAST NUCES with hands-on experience in encryption, digital forensics, and secure network design. I apply concepts from cryptography, system programming, and penetration testing to practical projects, using tools like Kali Linux, Cisco Packet Tracer, and OpenSSL.
+🎓 BS Cybersecurity Student @ FAST NUCES  
+🔍 Interested in Vulnerability Assessment & Penetration Testing  
+🛡️ Learning Red Team Techniques | OSINT | Web App Security  
+🔧 Tools: Burp Suite, Nmap, Nikto, Dirb, Metasploit, Wireshark  
+💻 Languages: Python, Bash, C++, JavaScript  
+📜 Certifications: Windows Forensics (Belkasoft), more in progress  
+🌐 Portfolio: [LinkedIn](https://linkedin.com/in/ahsan-izhar) | [Resume](upload to GitHub or use direct PDF link)
 
-## 👨‍💻 Technical Skills
-- **Languages:** C++, Python, JavaScript, R, HTML/CSS
-- **Cybersecurity Tools:** Kali Linux, Windows Forensics, RSA/AES Encryption, Diffie-Hellman, Packet Tracer
-- **Platforms:** VMware Workstation, Git, Trello, R Studio
+---
 
-## 📂 Academic Projects
-- **🧠 Hessian Matrix Analysis:** Used PyTorch and TensorFlow to study optimization robustness in deep learning models.
-- **🌐 Blood Donation Web App:** Developed a donor management system using HTML, CSS, JavaScript.
-- **📡 Network Design:** Configured routing protocols (OSPF, EIGRP, RIP) using Cisco Packet Tracer.
+### 📌 What I Do
 
-## 🎓 Education
-**BS Cybersecurity**  
-FAST NUCES, Islamabad (2023 – Present)  
-Relevant Courses: Cryptography, Computer Networks, Data Structures, Software Engineering
+- I perform black-box web vulnerability assessments
+- Familiar with OWASP Top 10, MITRE ATT&CK, and common attack vectors
+- Comfortable using Kali Linux, Parrot OS, and live analysis tools
 
-## 🏅 Certifications & Involvements
-- Windows Forensics (Belkasoft)
-- Mobile App Penetration Testing (Zeroxinn)
-- Cyber Bingo Runner-up – FAST NUCES
-- Volunteer Work – Sam Life Savers, Allah Waly Trust
+---
 
-📫 Contact: [LinkedIn](https://linkedin.com/in/ahsan-izhar) | [GitHub](https://github.com/alpha-01-cyber) | theprimealpha09@gmail.com
+### 📈 GitHub Stats
+
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha-01-cyber&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/ahsan-izhar)
+- 📧 theprimealpha09@gmail.com
